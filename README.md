@@ -1,6 +1,8 @@
 # 👨🏻‍💻 André Galvão
 
-<h3 align="center">Data Analytics | Power BI | Python | SQL | Business Intelligence</h3>
+<h3 align="center">
+Data Analytics | Power BI | Python | SQL | Business Intelligence
+</h3>
 
 <p align="center">
 Transformando dados em decisões. Documentando minha jornada na tecnologia.
@@ -8,34 +10,35 @@ Transformando dados em decisões. Documentando minha jornada na tecnologia.
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
-Olá! Me chamo **André Paixão Galvão**, tenho **31 anos** e sou natural de **Ouricuri, Pernambuco**.
+Olá! Me chamo **André Paixão Galvão**, tenho **31 anos** e sou natural de **Ouricuri - Pernambuco**.
 
-Concluí o Ensino Médio na **Escola de Referência em Ensino Médio São Sebastião (EREM São Sebastião)** e atualmente moro na região de Recife.
+Concluí o Ensino Médio na **Escola de Referência em Ensino Médio São Sebastião (EREM São Sebastião)**.
 
-Atualmente trabalho como **Fiscal Líder de Prevenção de Perdas** na **Lojas Renner**, onde atuo com:
+Atualmente moro na região de **Recife** e estou em transição de carreira para a área de **Data Analytics**.
+
+Hoje atuo como **Fiscal Líder de Prevenção de Perdas** na **Lojas Renner**, desenvolvendo atividades relacionadas a:
 
 - 📊 Análise de indicadores
 - 📦 Inventários
 - 📈 Gestão operacional
-- 💡 Apoio à tomada de decisões baseada em dados
+- 📉 Indicadores de desempenho
+- 💡 Tomada de decisão baseada em dados
 
-Essa experiência despertou meu interesse pela área de tecnologia e motivou minha transição para **Data Analytics**.
-
-Hoje estou aprofundando meus conhecimentos em **SQL**, **Python**, **Power BI**, **Excel** e **Estatística**, desenvolvendo projetos práticos para construir um portfólio sólido.
+Meu objetivo é atuar como **Analista de Dados**, utilizando tecnologia para transformar dados em informações estratégicas.
 
 ---
 
 # 📚 Atualmente estudando
 
 - 🐍 Python
-- 🗄️ SQL
+- 🗄 SQL
 - 📊 Power BI
 - 🐼 Pandas
 - 🔢 NumPy
 - 📈 Estatística
-- 🌳 Git e GitHub
+- 🌳 Git & GitHub
 
 ---
 
@@ -66,65 +69,33 @@ Hoje estou aprofundando meus conhecimentos em **SQL**, **Python**, **Power BI**,
 # 🛠️ Tecnologias
 
 <p align="left">
-
-<img
-    alt="Python"
-    title="Python"
-    width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-/>
-
-<img
-    alt="Pandas"
-    title="Pandas"
-    width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-/>
-
-<img
-    alt="NumPy"
-    title="NumPy"
-    width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"
-/>
-
-<img
-    alt="MySQL"
-    title="MySQL"
-    width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-/>
-
-<img
-    alt="Git"
-    title="Git"
-    width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-/>
-
-<img
-    alt="GitHub"
-    title="GitHub"
-    width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-/>
-
-<img
-    alt="VS Code"
-    title="VS Code"
-    width="45"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-/>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
+<img alt="Python" title="Python" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img alt="Pandas" title="Pandas" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+<img alt="NumPy" title="NumPy" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+<img alt="MySQL" title="MySQL" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img alt="Git" title="Git" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img alt="GitHub" title="GitHub" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img alt="VS Code" title="VS Code" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img alt="Power BI" title="Power BI" width="45" src="https://img.icons8.com/color/48/power-bi.png"/>
+<img alt="Excel" title="Microsoft Excel" width="45" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
 </p>
 
 ---
 
-# 📈 Minha Trilha de Aprendizado
+# 📂 Projetos
+
+Em breve este perfil contará com projetos envolvendo:
+
+- 📊 Dashboards em Power BI
+- 🗄 Consultas SQL
+- 🐍 Python para Análise de Dados
+- 📈 Análise Exploratória de Dados
+- 📉 Estatística aplicada
+- 📦 Business Intelligence
+
+---
+
+# 📈 Minha Jornada
 
 ```text
 Excel
@@ -140,20 +111,10 @@ Python
    │
    ▼
 Data Analytics
+   │
+   ▼
+Machine Learning
 ```
-
----
-
-# 📂 Projetos em destaque
-
-Em breve, este perfil contará com projetos envolvendo:
-
-- 📊 Dashboards em Power BI
-- 🗄️ Consultas SQL
-- 🐍 Automações com Python
-- 📈 Análise Exploratória de Dados
-- 📉 Estatística aplicada
-- 📦 Projetos de Business Intelligence
 
 ---
 
@@ -161,13 +122,9 @@ Em breve, este perfil contará com projetos envolvendo:
 
 <p align="center">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=andregalvao-dev&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Andregalvao-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregalvao-dev&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andregalvao-dev&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -176,16 +133,17 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=andregalvao-
 # 🎯 Objetivos para 2026
 
 - ✅ Construir um portfólio sólido em Data Analytics
-- ✅ Aprender SQL, Python e Power BI em nível profissional
-- ✅ Publicar projetos reais no GitHub
+- ✅ Publicar projetos reais utilizando SQL, Python e Power BI
 - ✅ Compartilhar conhecimento através do YouTube
 - ✅ Conquistar minha primeira oportunidade como Analista de Dados
 - ✅ Evoluir continuamente como profissional de tecnologia
 
 ---
 
-<h3 align="center">
+<p align="center">
 
-"Os dados contam histórias. Meu objetivo é aprender a interpretá-las e transformá-las em decisões inteligentes."
+### 💬 Frase que guia minha jornada
 
-</h3>
+*"Transformando dados em decisões inteligentes."*
+
+</p>
