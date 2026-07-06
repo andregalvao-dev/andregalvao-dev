@@ -1,4 +1,4 @@
-# 👨🏻‍💻 André Galvão
+# 👨🏻‍💻 André Paixão Galvão
 
 <h3 align="center">
 Data Analytics | Power BI | Python | SQL | Business Intelligence
